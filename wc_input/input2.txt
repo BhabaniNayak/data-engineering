@@ -1,0 +1,4 @@
+One of the first problems you’ll encounter in data engineering is Word Count, which takes in a text file or set of text files from a directory and outputs the number of occurrences for each word.
+
+The first part of the coding challenge is to implement your own version of Word Count that counts all the words from the text files contained in a directory named wc_input and outputs the counts (in alphabetical order) to a file named wc_result.txt, which is placed in a directory named wc_output.
+
